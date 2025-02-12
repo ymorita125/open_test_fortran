@@ -23,7 +23,7 @@ env:
 
   # oneAPI
   # Based on https://github.com/oneapi-src/oneapi-ci/blob/master/.github/workflows/build_all.yml
-  WINDOWS_HPCKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/17762/w_HPCKit_p_2021.2.0.2901.exe
+  WINDOWS_HPCKIT_URL: https://registrationcenter-download.intel.com/akdlm/IRC_NAS/1720594b-b12c-4aca-b7fb-a7d317bac5cb/w_fortran-compiler_p_2023.2.1.7_offline.exe
   WINDOWS_HPCKIT_FILE: hpckit.exe
   WINDOWS_HPCKIT_COMPONENTS: intel.oneapi.win.ifort-compiler
 
