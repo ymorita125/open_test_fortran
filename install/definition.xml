@@ -3,7 +3,7 @@
 	xmlns="www.iric.net/SolverDefinition/1.0"
 	name="test_autobuild_fortran" 
 	caption="test_autobuild_fortran" 
-	version="1.0.0"
+	version="1.0.1"
 	copyright="iRIC organization"
 	release="2023.9.27"
 	homepage="https://i-ric.org/"
